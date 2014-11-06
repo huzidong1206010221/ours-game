@@ -4,7 +4,7 @@
 header{
     display:block;
     margin:0 auto;
-    width:500px;
+    width:400px;
     text-align:center;
 }
 
@@ -13,7 +13,7 @@ header{
 */
 header h1{
     font-family:Arial;
-    font-size:28px;
+    font-size:25px;
     font-weight:bold;
 }
 
@@ -25,16 +25,16 @@ header h1{
 */
 header #newgamebutton{
     display:block;
-    margin:10px auto;
+    margin:9px auto;
 
-    width:100px;
-    padding:10px 10px;
+    width:81px;
+    padding:9px 9px;
     background-color:#8f7a66;
 
     font-family:Arial;
     color:white;
 
-    border-radius:10px;
+    border-radius:9px;
     text-decoration:none;
 }
 
@@ -57,7 +57,7 @@ header p{
 /*游戏得分变化的样式，颜色
 */
 #oa{
-    color:red;
+    color:blue;
 }
 
 /*棋盘格底部的容器的样式，
@@ -70,10 +70,10 @@ header p{
     height:460px;
     padding:20px;
 
-    margin:10px auto;
+    margin:9px auto;
     background-color:#bbada0;
 
-    border-radius: 10px;
+    border-radius: 9px;
     position: relative;
 }
 
